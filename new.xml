@@ -1,0 +1,19 @@
+<?cml version="1.0"?>
+<about myself>
+	<name>
+		Roma
+	</name>
+	<lastname>
+		Yepishev
+	</lastname>
+	<age>
+		22
+	</age>
+	<pet>
+		0
+	</pet>
+	<salary>
+		huge
+	</salary>
+</about myself>
+
