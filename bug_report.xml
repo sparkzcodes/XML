@@ -1,0 +1,24 @@
+<bug_report>
+     <Summary> 
+     The gift card price is lower than the card's sum at the homepage
+     </Summary>
+     <Priority> 
+     Highest
+     </Priority>
+     <Severity>
+     Trivial
+     </Severity>
+     <Environment> 
+     Chrome 98
+     </Environment>
+     <STR> 
+     Open the front end
+     Observe the homepage
+     </STR>
+     <AR>
+     The gift card price is 45 the gift sum is 50
+     </AR>
+     <ER>
+      Both prices should be the same
+     </ER>
+</bug_report>
